@@ -4,7 +4,7 @@
  /* nabvar */
 
 .navbar-light{
-    background-color: lightgreen;
+    background-color: rgb(240, 255, 240);
 }
 
  /* first-section */
@@ -16,17 +16,18 @@
     margin-bottom: 70px;
     width: 70%;
 }
-.green-section{
-    background-color: rgb(159, 253, 159);
+.blue-section{
+    background-color: rgb(240, 255, 240);
     height: 600px;
 }
-.green-highlight{
-    color: rgb(0, 216, 0)
+.blue-highlight{
+    color: rgb(19, 132, 150);
 }
 .btn{
     border-radius: 20px;
     padding: 10px;
     margin-bottom: 10px;
+    text-decoration: none;
 }
 .link-button{
     text-decoration: none;
@@ -45,7 +46,7 @@
 
 .card{
     box-shadow: 5px 5px 10px lightgrey;
-    background-color: rgb(159, 253, 159);
+    background-color: rgb(240, 255, 240);
     border-radius: 20px;
 }
 .card:hover{
