@@ -1,0 +1,136 @@
+ body{
+     margin: 0;
+ }
+ /* nabvar */
+
+.navbar-light{
+    background-color: lightgreen;
+}
+
+ /* first-section */
+#first-section{
+    margin-top: 30px;
+    padding-left: 30px;
+}
+.container img{
+    margin-bottom: 70px;
+    width: 70%;
+}
+.green-section{
+    background-color: rgb(159, 253, 159);
+    height: 600px;
+}
+.green-highlight{
+    color: rgb(0, 216, 0)
+}
+.btn{
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+}
+.container h6{
+    color:red;
+}
+.container p{
+    color: grey;
+}
+
+
+/* second-section */
+
+
+.card{
+    box-shadow: 5px 5px 10px lightgrey;
+    background-color: rgb(159, 253, 159);
+    border-radius: 20px;
+}
+.card:hover{
+    background-color: white;
+}
+.card img{
+    height: 200px;
+   width: 180px;
+   padding-top: 50px;
+   padding-left: 50px;
+}
+.card h5,p {
+ text-align: center;
+}
+
+
+/* third-section */
+
+
+.col-md-3{
+    box-shadow: 5px 5px 8px grey;
+    border-radius: 15px;
+}
+.row{
+    margin-left: 45px;
+}
+.col-md-3 img{
+    width: 100%;
+    margin-top: 5px;
+}
+.col-md-3 p{
+  text-align: left;  
+}
+.footer-icon{
+    width: 20px;
+    height: 20px;
+}
+.footer-icon {
+    font-size: 5px;
+}
+
+
+/* fourth-section */
+
+.books img{
+    height: 300px;
+    width: 250px;
+    margin-left:75px;
+}
+.books button{
+    margin-left: 150px;
+}
+.card-title{
+    margin-right: 35px;
+}
+
+/* fifth-section */
+
+
+.row{
+    border-radius: 10px;
+}
+.col-md-5{
+    padding: auto;
+}
+
+.col-md-7{
+    padding-top: 105px;
+}
+
+
+/* last-section */
+
+.last-section{
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+/* copy-right */
+#footer{
+    color: white;
+    margin: auto;
+    color: lightgray;
+}
+
